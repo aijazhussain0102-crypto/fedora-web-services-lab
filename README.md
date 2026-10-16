@@ -19,4 +19,8 @@ This project demonstrates the installation, configuration, testing, and permissi
 
 ## Verification
 - Inbound HTTP traffic allowed via `firewall-cmd --add-service=http --permanent`.
-- Verified active web serving across both servers from host browser (`http://<VM_IP_ADDRESS>`).
+- Verified active web serving across both servers from host browser (`http://10.0.0.210`).
+
+
+
+
